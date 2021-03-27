@@ -1,2 +1,2 @@
-# Credits
-All kind of credits belong here.
+## Credits
+[Mai](https://github.com/maisans-maid/Mai) : Waifus data are taken from their repository.
